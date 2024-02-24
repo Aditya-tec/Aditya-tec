@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![coder](https://github.com/Aditya-tec/Aditya-tec/assets/75620159/8d95c7a9-cd98-436f-ba22-6e026059637a)
 
+![](https://komarev.com/ghpvc/?username=Aditya-tec)
 
 <picture>
   <source

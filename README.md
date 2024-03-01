@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=Aditya-tec)
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-tec&theme=highcontrast&show_icons=true)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya-tec&show_icons=true&theme=dark"
@@ -20,7 +21,14 @@ You can click the Preview link to take a look at your changes.
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-tec&theme=tokyonight)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+
+
+
+
+
+
+
+
 </picture>
 
 - 👋 Hi, I’m @Aditya-tec

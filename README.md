@@ -1,24 +1,124 @@
-# 💫 About Me:
-🔭 I’m currently  learning Machine Learning<br>👯 I’m looking to collaborate with new people<br>💬 Ask me about anything<br>
+<div align="center">
 
+```
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗     ██╗  ██╗
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██║ ██╔╝
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║    █████╔╝ 
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║    ██╔═██╗ 
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║    ██║  ██╗
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kalambe-85440121a/) 
+### `> Software Engineer · AI Builder · Backend Craftsman`
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya-tec&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-tec&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-tec&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kalambe-85440121a/)
+[![Email](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityakalambe30@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-tec)
+![Visitors](https://komarev.com/ghpvc/?username=aditya-tec&style=flat-square&color=6366f1&label=profile+views)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditya-tec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+```yaml
+name: Aditya Kalambe
+role: Software Engineer @ 500X Tech Labs
+location: Mumbai, India
+education: B.E. in AI & Data Science — CGPA 8.22
+focus:
+  - Building resilient backend systems & APIs
+  - Agentic AI pipelines & voice interfaces
+  - Distributed systems & real-time architecture
+currently_learning: Machine Learning (going deeper 🧠)
+open_to: Collaborations, OSS, and interesting problems
+```
+
+---
+
+## `work --recent`
+
+| Period | Role | Company | Highlights |
+|--------|------|---------|------------|
+| **Mar 2026 – Now** | 🧑‍💻 Software Engineer | [500X Tech Labs](/) | Full-stack HRMS · RBAC · Production debugging |
+| **Jun – Jan 2026** | 🤖 AI Intern | Kuhoo Finance | Agentic voice agent · 30% latency cut · 85% txn success |
+| **Feb – May 2025** | 🛠 SDE Intern | Sohanlal Commodity | ASP.NET Core · 80% faster search · 500+ records managed |
+
+---
+
+## `ls ./projects`
+
+<details>
+<summary><b>⚙️ Distributed API Engine</b> — Node.js · Redis · BullMQ · Next.js</summary>
+
+> Async API test runner with Redis + BullMQ queue-worker architecture.  
+> Features: deterministic job snapshotting · sequential workflow execution · variable chaining · exponential backoff · SSRF protection · encrypted credentials · live Next.js dashboard.
+
+</details>
+
+<details>
+<summary><b>🚦 Rate Limiting Infrastructure</b> — Node.js · Redis · Lua · Express</summary>
+
+> Distributed rate limiter using atomic Lua scripts on Redis.  
+> Supports fixed window, sliding window & token bucket algorithms. Per-user + IP fallback. Real-time SSE dashboard. CI with edge-case test coverage.
+
+</details>
+
+<details>
+<summary><b>🗣️ Real-time Agentic Voice Agent</b> — WebSockets · VAD · LLM · Telephony</summary>
+
+> Low-latency audio pipeline with interruption handling, thread-safe sessions, and multilingual support. Achieved 85% transaction success via retry logic + metrics tracking.
+
+</details>
+
+<details>
+<summary><b>🧠 Knowledge Graph Discussion Assistant</b> — RAG · MCTS · LLM</summary>
+
+> Context-aware recommendation engine grounded in RAG + Knowledge Graph. Refined via LLM + Monte Carlo Tree Search for behavior-driven suggestions.
+
+</details>
+
+---
+
+## `cat tech_stack.json`
+
+```json
+{
+  "languages":   ["Python", "JavaScript", "TypeScript", "C++", "C#", "SQL", "R"],
+  "backend":     ["Node.js", "Express", "Django", "FastAPI", "ASP.NET Core", "Flask"],
+  "frontend":    ["Next.js", "React", "HTML5", "CSS3", "Bootstrap"],
+  "databases":   ["PostgreSQL", "MongoDB", "Redis", "MySQL", "SQLite"],
+  "ai_ml":       ["PyTorch", "scikit-learn", "OpenCV", "NumPy", "Pandas", "SciPy"],
+  "devops":      ["Docker", "AWS", "IIS", "Git", "Postman", "Jupyter"],
+  "protocols":   ["REST", "WebSockets", "SSE", "JWT", "Prisma", "ORM"]
+}
+```
+
+---
+
+## `git log --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya-tec&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-tec&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-tec&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `ping me`
+
+> Always down to talk about **backend architecture**, **AI systems**, or **building cool things together**.  
+> Drop a message — I don't bite. 🤝
+
+<div align="center">
+
+**`< built with curiosity & caffeine />`**
+
+</div>
